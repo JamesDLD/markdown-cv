@@ -19,17 +19,41 @@ Je suis fasciné par les technologies qui rendent les infrastructures informatiq
 
 J’ai débuté ma carrière dans le domaine des communications unifiées. Progressivement, j'ai acquis les compétences nécessaires pour concevoir et construire des projets d'infrastructure de grande envergure et à fortes valeurs business.
 
-Mes domaines de prédilections:
-▪ CI/CD d'Infrastructure Cloud
-▪ Infrastructure Data Lake sur Azure
-▪ Landing Zone sur Azure
-▪ Réseau
-▪ Sécurité
-▪ Solution PaaS
-▪ Monitoring
-▪ IaC (Infrastructure as code)
+Mes domaines de prédilections :
+- CI/CD d'Infrastructure Cloud
+- Infrastructure Data Lake sur Azure
+- Landing Zone sur Azure
+- Réseau
+- Sécurité
+- Solution PaaS
+- Monitoring
+- IaC (Infrastructure as code)
 
 Je dirais que mes principales qualités sont l'analyse des besoins, l'écoute, une bonne aisance pour communiquer, l'esprit d'équipe et la passion pour les technologies IT.
+
+## Compétences Techniques
+
+|   Domaine   |   Compétence |
+|---    |:-:    |
+|   &#x1F600;   |   GRINNING FACE   |
+|   &#x1F602;   |   FACE WITH TEARS OF JOY  |
+|   &#x1F923;   |   ROLLING ON THE FLOOR LAUGHING   |
+
+CI/CD Cloud
+Hypervision Sauvegarde Stockage Gestion de parc Service Windows Annuaire
+Code Repository Méthodologie
+Langues
+Azure DevOps, Azure ARM & Bicep, Hashicorp Terraform
+Azure Firewall, Front Door, Application Gateway, Network Security Groups, Azure Private Link, Azure DNS, Virtual Network Peering et Routing.
+Azure Kubernetes Services (AKS), Azure Function, App Services, Azure Logic Apps, Azure Data Factory, Azure Databricks Snowflake et Airflow.
+Azure Monitor, Azure Workbooks, Dashboard, Log Analytics, Application Insights, Azure Monitor Alerts et Azure Load Testing.
+Azure ARM, VMware, Hyper-V, Nutanix et Cisco UCS
+Azure Backup, Veeam Backup et Replication
+Azure Files, ADLS Gen2, Snowflake, SFTP, StorSimple, EMC VNX Data Domain Azure Defender for Cloud, Azure Policies, Terraform, PowerShell DSC, GPO DSC Pull server, NAP, Storage spaces, DFS
+Microsoft Entra ID et Active Directory Domain Services (ADDS)
+Azure DevOps, GitHub, Bitbucket
+Documentation d’architecture techniques simplifiées et détaillées, Audit d’Infrastructure IT, DevSecOps, Documentation de bonnes pratiques, Arbitrage sur des décisions techniques, Rédaction d’expressions de besoin, Mises en production, Cahiers de recette.
+Anglais et Français
 
 ### Specialized in
 
