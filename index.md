@@ -20,42 +20,60 @@ Je suis fasciné par les technologies qui rendent les infrastructures informatiq
 J’ai débuté ma carrière dans le domaine des communications unifiées. Progressivement, j'ai acquis les compétences nécessaires pour concevoir et construire des projets d'infrastructure de grande envergure et à fortes valeurs business.
 
 Mes domaines de prédilections :
- - CI/CD d'Infrastructure Cloud
- - Infrastructure Data Lake sur Azure
- - Landing Zone sur Azure
- - Réseau
- - Sécurité
- - Solution PaaS
- - Monitoring
- - IaC (Infrastructure as code)
+<li>CI/CD d'Infrastructure Cloud</li>
+<li>Infrastructure Data Lake sur Azure</li>
+<li>Landing Zone sur Azure</li>
+<li>Réseau</li>
+<li>Sécurité</li>
+<li>Solution PaaS</li>
+<li>Monitoring</li>
+<li>IaC (Infrastructure as code)</li>
 
 Je dirais que mes principales qualités sont l'analyse des besoins, l'écoute, une bonne aisance pour communiquer, l'esprit d'équipe et la passion pour les technologies IT.
 
 ## Compétences Techniques
 
-CI/CD : Azure DevOps, Azure ARM & Bicep, Hashicorp Terraform
+`CI/CD`
 
-Cloud : Azure Firewall, Front Door, Application Gateway, Network Security Groups, Azure Private Link, Azure DNS, Virtual Network Peering et Routing.
-        Azure Kubernetes Services (AKS), Azure API Management, Azure Function, App Services, Azure Logic Apps, Azure Data Factory, Azure Databricks Snowflake et Airflow.
-        Azure Monitor, Azure Workbooks, Dashboard, Log Analytics, Application Insights, Azure Monitor Alerts et Azure Load Testing
+Azure DevOps, Azure ARM & Bicep, Hashicorp Terraform
 
-Hypervision : Azure ARM, VMware, Hyper-V, Nutanix et Cisco UCS
+`Cloud`
 
-Sauvegarde : Azure Backup, Veeam Backup et Replication
+Azure Firewall, Front Door, Application Gateway, Network Security Groups, Azure Private Link, Azure DNS, Virtual Network Peering et Routing.
+Azure Kubernetes Services (AKS), Azure API Management, Azure Function, App Services, Azure Logic Apps, Azure Data Factory, Azure Databricks Snowflake et Airflow.
+Azure Monitor, Azure Workbooks, Dashboard, Log Analytics, Application Insights, Azure Monitor Alerts et Azure Load Testing
 
-Stockage: Azure Files, ADLS Gen2, Snowflake, SFTP, StorSimple, EMC VNX Data Domain
+`Hypervision`
 
-Gestion de parc: Azure Defender for Cloud, Azure Policies, Terraform, PowerShell DSC, GPO
+Azure ARM, VMware, Hyper-V, Nutanix et Cisco UCS
 
-Service Windows: DSC Pull server, NAP, Storage spaces, DFS
+`Sauvegarde`
 
-Annuaire: Microsoft Entra ID et Active Directory Domain Services (ADDS)
+Azure Backup, Veeam Backup et Replication
 
-Code Repository: Azure DevOps, GitHub, Bitbucket
+`Stockage` 
 
-Méthodologie: Documentation d’architecture techniques simplifiées et détaillées, Audit d’Infrastructure IT, DevSecOps, Documentation de bonnes pratiques, Arbitrage sur des décisions techniques, Rédaction d’expressions de besoin, Mises en production, Cahiers de recette.
+Azure Files, ADLS Gen2, Snowflake, SFTP, StorSimple, EMC VNX Data Domain
 
-Langues: Anglais, Français
+`Gestion de parc`
+
+Azure Defender for Cloud, Azure Policies, Terraform, PowerShell DSC, GPO
+
+`Annuaire` 
+
+Microsoft Entra ID et Active Directory Domain Services (ADDS)
+
+`Code Repository`
+
+Azure DevOps, GitHub, Bitbucket
+
+`Méthodologie`
+
+Documentation d’architecture techniques simplifiées et détaillées, Audit d’Infrastructure IT, DevSecOps, Documentation de bonnes pratiques, Arbitrage sur des décisions techniques, Rédaction d’expressions de besoin, Mises en production, Cahiers de recette.
+
+`Langues` 
+
+Anglais, Français
 
 ## Compétences Fonctionnelles
 
