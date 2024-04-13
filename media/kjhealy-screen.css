@@ -142,6 +142,10 @@ h2 {
 	width: 20%;
 }
 
+h2+ul {
+    margin-top: 2px;
+}
+
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
