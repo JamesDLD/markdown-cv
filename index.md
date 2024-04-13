@@ -20,14 +20,15 @@ Je suis fasciné par les technologies qui rendent les infrastructures informatiq
 J’ai débuté ma carrière dans le domaine des communications unifiées. Progressivement, j'ai acquis les compétences nécessaires pour concevoir et construire des projets d'infrastructure de grande envergure et à fortes valeurs business.
 
 Mes domaines de prédilections :
-<li>CI/CD d'Infrastructure Cloud</li>
-<li>Infrastructure Data Lake sur Azure</li>
-<li>Landing Zone sur Azure</li>
-<li>Réseau</li>
-<li>Sécurité</li>
-<li>Solution PaaS</li>
-<li>Monitoring</li>
-<li>IaC (Infrastructure as code)</li>
+` `
+- CI/CD d'Infrastructure Cloud
+- Infrastructure Data Lake sur Azure
+- Landing Zone sur Azure
+- Réseau
+- Sécurité
+- Solution PaaS
+- Monitoring
+- IaC (Infrastructure as code)
 
 Je dirais que mes principales qualités sont l'analyse des besoins, l'écoute, une bonne aisance pour communiquer, l'esprit d'équipe et la passion pour les technologies IT.
 
